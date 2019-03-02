@@ -1,3 +1,2 @@
-function addSum(a, b){
-  return a + b;
-}
+6 + 9;
+
